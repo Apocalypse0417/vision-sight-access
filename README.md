@@ -16,4 +16,4 @@ Access is granted per account and can be revoked after the event.
 The runnable application packages and the reviewer kit are available as release
 assets in the private repository; the submission PDF describes the architecture.
 
-Contact: <your email here>
+Contact: 2024213426@bupt.cn
